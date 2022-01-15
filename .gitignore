@@ -3,6 +3,8 @@ node_modules
 /dist
 /deploy.bat
 /git.sh
+deploy.bat
+
 
 # local env files
 .env.local
