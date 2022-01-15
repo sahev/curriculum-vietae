@@ -1,4 +1,6 @@
-# cv-vitae
+# cv-vitae on Github Pages
+https://sahev.github.io/curriculum-vitae-web/
+
 
 ## Project setup
 ```
